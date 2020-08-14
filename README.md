@@ -4,3 +4,5 @@ This Journey blog used EJS to develop. Journey Blog allows user to post new post
 
 -Currently learning about Mongodb, will apply the database soon
 -Sign-up & log in funtion will be update soon
+
+--Plan to update the backend soon
